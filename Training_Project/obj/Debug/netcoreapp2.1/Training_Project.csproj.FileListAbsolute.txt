@@ -1,0 +1,42 @@
+C:\D-Drive\College_Training\Training_Project\Training_Project\bin\Debug\netcoreapp2.1\Training_Project.deps.json
+C:\D-Drive\College_Training\Training_Project\Training_Project\bin\Debug\netcoreapp2.1\Training_Project.runtimeconfig.json
+C:\D-Drive\College_Training\Training_Project\Training_Project\bin\Debug\netcoreapp2.1\Training_Project.runtimeconfig.dev.json
+C:\D-Drive\College_Training\Training_Project\Training_Project\bin\Debug\netcoreapp2.1\Training_Project.dll
+C:\D-Drive\College_Training\Training_Project\Training_Project\obj\Debug\netcoreapp2.1\Training_Project.csprojAssemblyReference.cache
+C:\D-Drive\College_Training\Training_Project\Training_Project\obj\Debug\netcoreapp2.1\Training_Project.csproj.CoreCompileInputs.cache
+C:\D-Drive\College_Training\Training_Project\Training_Project\obj\Debug\netcoreapp2.1\Training_Project.RazorAssemblyInfo.cache
+C:\D-Drive\College_Training\Training_Project\Training_Project\obj\Debug\netcoreapp2.1\Training_Project.RazorAssemblyInfo.cs
+C:\D-Drive\College_Training\Training_Project\Training_Project\obj\Debug\netcoreapp2.1\Training_Project.AssemblyInfoInputs.cache
+C:\D-Drive\College_Training\Training_Project\Training_Project\obj\Debug\netcoreapp2.1\Training_Project.AssemblyInfo.cs
+C:\D-Drive\College_Training\Training_Project\Training_Project\obj\Debug\netcoreapp2.1\Training_Project.RazorTargetAssemblyInfo.cache
+C:\D-Drive\College_Training\Training_Project\Training_Project\bin\Debug\netcoreapp2.1\Training_Project.pdb
+C:\D-Drive\College_Training\Training_Project\Training_Project\obj\Debug\netcoreapp2.1\Training_Project.dll
+C:\D-Drive\College_Training\Training_Project\Training_Project\obj\Debug\netcoreapp2.1\Training_Project.pdb
+C:\Users\Isha.garg\Documents\Projects\Training_Project\Training_Project\bin\Debug\netcoreapp2.1\Training_Project.deps.json
+C:\Users\Isha.garg\Documents\Projects\Training_Project\Training_Project\bin\Debug\netcoreapp2.1\Training_Project.runtimeconfig.json
+C:\Users\Isha.garg\Documents\Projects\Training_Project\Training_Project\bin\Debug\netcoreapp2.1\Training_Project.runtimeconfig.dev.json
+C:\Users\Isha.garg\Documents\Projects\Training_Project\Training_Project\bin\Debug\netcoreapp2.1\Training_Project.dll
+C:\Users\Isha.garg\Documents\Projects\Training_Project\Training_Project\bin\Debug\netcoreapp2.1\Training_Project.pdb
+C:\Users\Isha.garg\Documents\Projects\Training_Project\Training_Project\obj\Debug\netcoreapp2.1\Training_Project.csprojAssemblyReference.cache
+C:\Users\Isha.garg\Documents\Projects\Training_Project\Training_Project\obj\Debug\netcoreapp2.1\Training_Project.csproj.CoreCompileInputs.cache
+C:\Users\Isha.garg\Documents\Projects\Training_Project\Training_Project\obj\Debug\netcoreapp2.1\Training_Project.RazorAssemblyInfo.cache
+C:\Users\Isha.garg\Documents\Projects\Training_Project\Training_Project\obj\Debug\netcoreapp2.1\Training_Project.RazorAssemblyInfo.cs
+C:\Users\Isha.garg\Documents\Projects\Training_Project\Training_Project\obj\Debug\netcoreapp2.1\Training_Project.AssemblyInfoInputs.cache
+C:\Users\Isha.garg\Documents\Projects\Training_Project\Training_Project\obj\Debug\netcoreapp2.1\Training_Project.AssemblyInfo.cs
+C:\Users\Isha.garg\Documents\Projects\Training_Project\Training_Project\obj\Debug\netcoreapp2.1\Training_Project.RazorTargetAssemblyInfo.cache
+C:\Users\Isha.garg\Documents\Projects\Training_Project\Training_Project\obj\Debug\netcoreapp2.1\Training_Project.dll
+C:\Users\Isha.garg\Documents\Projects\Training_Project\Training_Project\obj\Debug\netcoreapp2.1\Training_Project.pdb
+C:\ISHA data\Projects\Training_Project2\Training_Project\bin\Debug\netcoreapp2.1\Training_Project.deps.json
+C:\ISHA data\Projects\Training_Project2\Training_Project\bin\Debug\netcoreapp2.1\Training_Project.runtimeconfig.json
+C:\ISHA data\Projects\Training_Project2\Training_Project\bin\Debug\netcoreapp2.1\Training_Project.runtimeconfig.dev.json
+C:\ISHA data\Projects\Training_Project2\Training_Project\bin\Debug\netcoreapp2.1\Training_Project.dll
+C:\ISHA data\Projects\Training_Project2\Training_Project\bin\Debug\netcoreapp2.1\Training_Project.pdb
+C:\ISHA data\Projects\Training_Project2\Training_Project\obj\Debug\netcoreapp2.1\Training_Project.csprojAssemblyReference.cache
+C:\ISHA data\Projects\Training_Project2\Training_Project\obj\Debug\netcoreapp2.1\Training_Project.csproj.CoreCompileInputs.cache
+C:\ISHA data\Projects\Training_Project2\Training_Project\obj\Debug\netcoreapp2.1\Training_Project.RazorAssemblyInfo.cache
+C:\ISHA data\Projects\Training_Project2\Training_Project\obj\Debug\netcoreapp2.1\Training_Project.RazorAssemblyInfo.cs
+C:\ISHA data\Projects\Training_Project2\Training_Project\obj\Debug\netcoreapp2.1\Training_Project.AssemblyInfoInputs.cache
+C:\ISHA data\Projects\Training_Project2\Training_Project\obj\Debug\netcoreapp2.1\Training_Project.AssemblyInfo.cs
+C:\ISHA data\Projects\Training_Project2\Training_Project\obj\Debug\netcoreapp2.1\Training_Project.RazorTargetAssemblyInfo.cache
+C:\ISHA data\Projects\Training_Project2\Training_Project\obj\Debug\netcoreapp2.1\Training_Project.dll
+C:\ISHA data\Projects\Training_Project2\Training_Project\obj\Debug\netcoreapp2.1\Training_Project.pdb
